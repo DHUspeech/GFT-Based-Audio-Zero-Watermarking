@@ -3,7 +3,7 @@ We propose a novel audio zero-watermarking technology based on graph Fourier tra
 
 Usage
 -------------------------------------------------
-run GSP_kmeans.m
+Run GSP_kmeans.m
 
 Citation
 -----------------------------------------------
